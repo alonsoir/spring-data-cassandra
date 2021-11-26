@@ -28,7 +28,7 @@
 	<properties>
 		<project.type>multi</project.type>
 		<dist.id>spring-data-cassandra</dist.id>
-		<springdata.commons>1.12.0.BUILD-SNAPSHOT</springdata.commons>
+		<springdata.commons>1.13.11.RELEASE</springdata.commons>
 		<cassandra-unit.version>2.0.2.2</cassandra-unit.version>
 		<el.version>1.0</el.version>
 		<failsafe.version>2.16</failsafe.version>
