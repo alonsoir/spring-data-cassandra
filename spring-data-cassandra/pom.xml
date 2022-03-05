@@ -16,7 +16,7 @@
 	</parent>
 
 	<properties>
-		<validation>1.0.0.GA</validation>
+		<validation>1.1.0.Final</validation>
 	</properties>
 
 	<dependencies>
